@@ -1,9 +1,0 @@
-[project]
-name = "qamp-2025-qkd"
-version = "0.1.0"
-description = "Exploring Quantum Key Distribution Protocols"
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = [
-    "qiskit>=2.2.3",
-]
